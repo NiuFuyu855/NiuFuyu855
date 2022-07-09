@@ -73,6 +73,6 @@ You can click the Preview link to take a look at your changes.
 <!-- interested:end -->
 
 > By the way, are you also curious about how to generate the list?
-> I wrote a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
+> I wrote a script to generate it automatically. You can see [NiuFuyu855/NiuFuyu855](https://github.com/NiuFuyu855/NiuFuyu855).
 
 ---
