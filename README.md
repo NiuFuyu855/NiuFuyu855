@@ -3,6 +3,7 @@
 
 - My websites
 - MPT Introduction https://mpt.minecraftpt.com/
+- MPT https://minecraftpt.com/ or https://www.minept.top/
 - Niute Fony Blog https://blogs.niufuyu.top/ or https://niufuyu.com/
 - Introduce me https://niufuyu855.github.io/ or https://niufuyu.top/
 - Studying Blog(WSSB Blog) http://blog.wssb.ml/ (已弃坑)
