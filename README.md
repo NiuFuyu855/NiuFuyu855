@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 
 - My websites
-- NIUIO Nav https://dh.niufuyu.top/
+- MPT Introduction https://mpt.minecraftpt.com/
 - Introduce me https://niufuyu855.github.io/
 - Studying Blog(WSSB Blog) http://blog.wssb.ml/
 
