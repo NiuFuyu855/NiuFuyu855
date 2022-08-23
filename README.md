@@ -1,6 +1,7 @@
 ### Hi there, I'm [NiuFuyu855](https://blogs.niufuyu.top/)（Niute Fony）. 👋
 - 👀 I’m interested in programming.
-
+<a href="https://blogs.niufuyu.top/" target="_blank"> <img src="https://img.shields.io/badge/Blog-NiuFuyu's Blog-%23333?style=for-the-badge" alt="Blog" /> </a>
+<p><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></p>
 - My websites
 - MPT Introduction https://mpt-introduction.vercel.app/
 - MPT https://minept.top/ or https://www.minept.top/
@@ -78,3 +79,13 @@ You can click the Preview link to take a look at your changes.
 > I wrote a script to generate it automatically. You can see [NiuFuyu855/NiuFuyu855](https://github.com/NiuFuyu855/NiuFuyu855).
 
 ---
+
+### Stats & Languages I Used
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindLeaf233&theme=vue" />
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindLeaf233&theme=vue&show_icons=true&hide=stars&count_private=true" alt="WindLeaf233's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindLeaf233&theme=vue" alt="Top Languages"/>
+</p>
+
