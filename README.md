@@ -2,11 +2,11 @@
 - 👀 I’m interested in programming.
 
 - My websites
-- MPT Introduction https://mpt.minecraftpt.com/
-- MPT https://minecraftpt.com/ or https://www.minept.top/
-- Niute Fony Blog https://blogs.niufuyu.top/ or https://niufuyu.com/
+- MPT Introduction https://mpt-introduction.vercel.app/
+- MPT https://minept.top/ or https://www.minept.top/
+- Niute Fony Blog https://blogs.niufuyu.top/ or https://niufuyu.com/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
 - Introduce me https://niufuyu855.github.io/ or https://niufuyu.top/
-- Studying Blog(WSSB Blog) http://blog.wssb.ml/ (已弃坑)
+- Niute's CF-Blog https://blog.niufuyu.top/
 
 <!---
 NiuFuyu855/NiuFuyu855 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
