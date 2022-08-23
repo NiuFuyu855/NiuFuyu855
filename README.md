@@ -4,7 +4,7 @@
 - My websites
 - MPT Introduction https://mpt-introduction.vercel.app/
 - MPT https://minept.top/ or https://www.minept.top/
-- Niute Fony Blog https://blogs.niufuyu.top/ or https://niufuyu.com/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
+- Niute Fony Blog https://blogs.niufuyu.top/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
 - Introduce me https://niufuyu855.github.io/ or https://niufuyu.top/
 - Niute's CF-Blog https://blog.niufuyu.top/
 
