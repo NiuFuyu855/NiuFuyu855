@@ -82,10 +82,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Stats & Languages I Used
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindLeaf233&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiuFuyu855&theme=vue" />
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindLeaf233&theme=vue&show_icons=true&hide=stars&count_private=true" alt="WindLeaf233's Github Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindLeaf233&theme=vue" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NiuFuyu855&theme=vue&show_icons=true&hide=stars&count_private=true" alt="NiuFuyu855's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiuFuyu855&theme=vue" alt="Top Languages"/>
 </p>
 
