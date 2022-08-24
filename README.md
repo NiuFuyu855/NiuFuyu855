@@ -1,4 +1,7 @@
 ### Hi there, I'm [NiuFuyu855](https://blogs.niufuyu.top/)（Niute Fony）. 👋
+
+- I'm a member of MPT(Minecraft Programming Team) and 14-year-old Chinese student. Just so so......
+
 - 👀 I’m interested in programming.
 
 <a href="https://blogs.niufuyu.top/" target="_blank"> <img src="https://img.shields.io/badge/Blog-NiuFuyu's Blog-%23333?style=for-the-badge" alt="Blog" /> </a>
