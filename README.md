@@ -1,5 +1,7 @@
 ### Hi there, I'm [NiuFuyu855](https://blogs.niufuyu.top/)（Niute Fony）. 👋
 
+![vistors](https://visitor-badge.glitch.me/badge?page_id=NiuFuyu855.NiuFuyu855&style=for-the-badge)
+
 - I'm a member of MPT(Minecraft Programming Team) and 14-year-old Chinese student. Just so so......
 
 - 👀 I’m interested in programming.
