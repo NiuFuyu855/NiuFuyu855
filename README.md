@@ -1,4 +1,4 @@
-### Hi there, I'm [NiuFuyu855](https://blogs.niufuyu.top/)（Niute Fony）. 👋
+### Hi there, I'm [NiuFuyu855](https://off.cx/)（Niute Fony）. 👋
 
 ![vistors](https://visitor-badge.glitch.me/badge?page_id=NiuFuyu855.NiuFuyu855&style=for-the-badge)
 
