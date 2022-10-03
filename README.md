@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in programming.
 
-<a href="https://blogs.niufuyu.top/" target="_blank"> <img src="https://img.shields.io/badge/Blog-NiuFuyu's Blog-%23333?style=for-the-badge" alt="Blog" /> </a>
+<a href="https://off.cx/" target="_blank"> <img src="https://img.shields.io/badge/Blog-NiuFuyu's Blog-%23333?style=for-the-badge" alt="Blog" /> </a>
 <p><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></p>
 
 - My websites
