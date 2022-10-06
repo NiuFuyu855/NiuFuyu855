@@ -23,6 +23,8 @@
 
 - Niute Fony Blog https://off.cx/ or https://blogs.niufuyu.top/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
 
+- My CDN https://cdn.off.cx/
+
 - Introduce me https://niufuyu855.github.io/ or https://niufuyu.top/
 
 - Niute's CF-Blog https://blog.niufuyu.top/
