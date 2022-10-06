@@ -1,5 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是NiuFuyu(Niute-Fony);一名来自江苏扬州的初三学生)
 
+<h1 align="center">访客数</h1>
+
+![:ZGQ-inc](https://count.getloli.com/get/@NiuFuyu855?theme=rule34)
+
 ### Hi there, I'm [NiuFuyu855](https://off.cx/)（Niute Fony）. 👋
 
 - I'm a member of MPT(Minecraft Programming Team) and 14-year-old Chinese student. Just so so......
