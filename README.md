@@ -105,3 +105,19 @@ You can click the Preview link to take a look at your changes.
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiuFuyu855&theme=vue" alt="Top Languages"/>
 </p>
+
+---
+
+### Github Achievements
+
+![profile-3d-contrib](https://NiuFuyu855.github.io/NiuFuyu855/profile-3d-contrib/profile-night-rainbow.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiuFuyu855&show_icons=true&count_private=true&title_color=000000&text_color=000000&bg_color=50,ff6b6b,ffb56b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
+
+![NiuFuyu855's github stats](https://github-readme-stats.vercel.app/api?username=NiuFuyu855&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NiuFuyu855&theme=synthwave&date_format=%5BY.%5Dn.j)
+
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NiuFuyu855&bg_color=e6fcff&color=000000&line=000000&point=00e1ff&area=true&hide_border=true&width=100%)
+
+![profile](https://github-profile-trophy.vercel.app/?username=NiuFuyu855&margin-w=28)
