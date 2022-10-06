@@ -4,7 +4,7 @@
 
 ![:ZGQ-inc](https://count.getloli.com/get/@NiuFuyu855?theme=rule34)
 
-<hi align="center">我的介绍</h1>
+<h1 align="center">我的介绍</h1>
 
 ### Hi there, I'm [NiuFuyu855](https://off.cx/)（Niute Fony）. 👋
 
