@@ -3,6 +3,7 @@
 <h1 align="center">访客数</h1>
 
 ![:NiuFuyu855](https://count.getloli.com/get/@NiuFuyu855?theme=rule34)
+<img align="center" href="https://count.getloli.com/get/@NiuFuyu855?theme=rule34"></img>
 
 <h1 align="center">我的介绍</h1>
 
