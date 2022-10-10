@@ -2,7 +2,7 @@
 
 <h1 align="center">访客数</h1>
 
-<p align="center"><img src="https://count.getloli.com/get/@NiuFuyu855?theme=rule34"></img></p>
+<p align="center"><img src="https://count.getloli.com/get/@NiuFuyu855?theme=rule34" /></p>
 
 <h1 align="center">我的介绍</h1>
 
