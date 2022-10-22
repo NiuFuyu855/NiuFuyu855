@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是NiuFuyu(Niute_Fony);一名来自江苏扬州的初三学生;喜欢玩Minecraft~)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是NiuFuyu(Niute_Fony);一名来自江苏扬州的初三学生;中考在即!;喜欢玩Minecraft~)
 
 <!-- <h1 align="center">访客数</h1>
 
