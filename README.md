@@ -8,9 +8,9 @@
 
 ### Hi there, I'm [NiuFuyu855](https://off.cx/)（Niute Fony）. 👋
 
-- 小号 [@NiuFuyuCN](https://github.com/NiuFuyuCN)
+- 小号 **[@NiuFuyuCN](https://github.com/NiuFuyuCN)**
 
-- I'm a member of MPT (Minecraft Programming Team) and 14-year-old Chinese student. Just so so...
+- I'm a member of MPT (*Minecraft* Programming Team) and 14-year-old Chinese student. Just so so...
 
 - I’m interested in programming. 👀
 
