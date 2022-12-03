@@ -27,7 +27,7 @@
 
 - [Niute Fony Blog](https://off.cx) https://off.cx/ or https://blogs.niufuyu.top/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
 
-- ~~[My CDN](https://cdn.off.cx) https://cdn.off.cx/~~(The domain name Beian(备案) has been cancelled, and this CDN is temporarily unavailable.)
+- ~~[My CDN](https://cdn.off.cx) https://cdn.off.cx/~~ (The domain name Beian(备案) has been cancelled, and this CDN is temporarily unavailable.)
 
 - [Introduce me](https://niufuyu.top/) https://niufuyu855.github.io/ or https://niufuyu.top/
 
