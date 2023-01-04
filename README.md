@@ -4,7 +4,7 @@
 
 <!-- <p align="center"><img src="https://count.getloli.com/get/@NiuFuyu855?theme=rule34" /></p> -->
 
-![Count](https://api.nn.ci/NiuFuyu855/count.svg?)
+<p align="center"><img src="https://api.nn.ci/NiuFuyu855/count.svg?" /></p>
 
 <h1 align="center">我的介绍</h1>
 
