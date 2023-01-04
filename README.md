@@ -1,8 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是NiuFuyu(Niute_Fony);一名来自江苏扬州的初三学生;中考在即!学业至上!;喜欢玩Minecraft~)
 
-<!-- <h1 align="center">访客数</h1>
+<h1 align="center">访客数</h1>
 
-<p align="center"><img src="https://count.getloli.com/get/@NiuFuyu855?theme=rule34" /></p> -->
+<!-- <p align="center"><img src="https://count.getloli.com/get/@NiuFuyu855?theme=rule34" /></p> -->
+
+![Count](https://api.nn.ci/NiuFuyu855/count.svg?)
 
 <h1 align="center">我的介绍</h1>
 
