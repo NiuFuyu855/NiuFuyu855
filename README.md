@@ -123,6 +123,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NiuFuyu855&theme=synthwave&date_format=%5BY.%5Dn.j)
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NiuFuyu855&bg_color=e6fcff&color=000000&line=000000&point=00e1ff&area=true&hide_border=true&width=100%)
+<!-- ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NiuFuyu855&bg_color=e6fcff&color=000000&line=000000&point=00e1ff&area=true&hide_border=true&width=100%) -->
 
 ![profile](https://github-profile-trophy.vercel.app/?username=NiuFuyu855&margin-w=28)
