@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是NiuFuyu(Niute_Fony);一名来自江苏扬州的初三学生;中考在即!学业至上!;喜欢玩Minecraft~)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是NiuFuyu(Niute_Fony);一名来自江苏扬州的初三学生;中考在即!学业至上!;爱玩Minecraft&ADOFAI~)
 
 <h1 align="center">访客数</h1>
 
@@ -27,15 +27,15 @@
 
 - [MPT](https://www.minept.top) https://minept.top/ or https://www.minept.top/
 
-- [Niute Fony Blog](https://off.cx) https://off.cx/ or https://blogs.niufuyu.top/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
+- [Lunar Town Blog](https://off.cx) https://off.cx/ or https://blogs.niufuyu.top/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
 
 - ~~[My CDN](https://cdn.off.cx) https://cdn.off.cx/~~ (The domain name Beian(备案) has been cancelled, and this CDN is temporarily unavailable.)
+
+- [New CDN](https://nfy.dawnpe.com)
 
 - [Introduce me](https://niufuyu.top/) https://niufuyu855.github.io/ or https://niufuyu.top/
 
 - [Niute's CF-Blog](https://blog.niufuyu.top/) https://blog.niufuyu.top/
-
-
 
 ---
 
