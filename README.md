@@ -8,7 +8,7 @@
 
 <h1 align="center">我的介绍</h1>
 
-### Hi there, I'm [NiuFuyu855](https://off.cx/)（Niute Fony）. 👋
+### Hi there, I'm [NiuFuyu855](https://mooncc.cn/)（Niute Fony）. 👋
 
 - 小号 **[@NiuFuyuCN](https://github.com/NiuFuyuCN)**
 
@@ -16,7 +16,7 @@
 
 - I’m interested in programming. 👀
 
-<a href="https://off.cx/" target="_blank"> <img src="https://img.shields.io/badge/Blog-NiuFuyu's Blog-%23333?style=for-the-badge" alt="Blog" /> </a>
+<a href="https://mooncc.cn/" target="_blank"> <img src="https://img.shields.io/badge/Blog-NiuFuyu's Blog-%23333?style=for-the-badge" alt="Blog" /> </a>
 <p><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></p>
 
 - My websites
@@ -25,17 +25,17 @@
 
 - [MPT Introduction](https://mpt-introduction.vercel.app/) https://mpt-introduction.vercel.app/
 
-- [MPT](https://www.minept.top) https://minept.top/ or https://www.minept.top/
+- [MPT](https://www.minept.top) https://minept.top/ or https://www.minept.top/ or https://mpt.icu/
 
-- [Lunar Town Blog](https://off.cx) https://off.cx/ or https://blogs.niufuyu.top/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
+- [Lunar Town Blog](https://mooncc.cn) https://mooncc.cn/ or https://off.cx/ or https://blogs.niufuyu.top/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
 
 - ~~[My CDN](https://cdn.off.cx) https://cdn.off.cx/~~ (The domain name Beian(备案) has been cancelled, and this CDN is temporarily unavailable.)
 
-- [New CDN](https://nfy.dawnpe.com)
+- [New CDN](https://cdn.mooncc.cn)
 
 - [Introduce me](https://niufuyu.top/) https://niufuyu855.github.io/ or https://niufuyu.top/
 
-- [Niute's CF-Blog](https://blog.niufuyu.top/) https://blog.niufuyu.top/
+- [LunarTeam](https://lunarteam.top) https://lunarteam.top/
 
 ---
 
