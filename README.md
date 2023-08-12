@@ -27,7 +27,7 @@
 
 - [MPT](https://www.minept.top) https://minept.top/ or https://www.minept.top/ or https://mpt.icu/
 
-- [Lunar Town Blog](https://mooncc.cn) https://mooncc.cn/ or https://off.cx/ or https://blogs.niufuyu.top/ or http://www.芭比q.jp/ (https://www.xn--q-c48bx36d.jp/)
+- [Lunar Town Blog](https://mooncc.cn) https://mooncc.cn/ or https://blogs.niufuyu.top/
 
 - ~~[My CDN](https://cdn.off.cx) https://cdn.off.cx/~~ (The domain name Beian(备案) has been cancelled, and this CDN is temporarily unavailable.)
 
