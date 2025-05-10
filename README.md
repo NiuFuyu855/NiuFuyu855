@@ -8,7 +8,7 @@
 
 <h1 align="center">我的介绍</h1>
 
-### Hi there, I'm [NiuFuyu855](https://mooncc.cn/)（Niute Fony）. 👋
+### Hi there, I'm [NiuFuyu855](https://mooncc.cn/). 👋
 
 - 小号 **[@NiuFuyuCN](https://github.com/NiuFuyuCN)**
 
