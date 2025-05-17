@@ -25,11 +25,9 @@
 
 - [MPT Introduction](https://mpt-introduction.vercel.app/) https://mpt-introduction.vercel.app/
 
-- [MPT](https://www.minept.top) https://minept.top/ or https://www.minept.top/ or https://mpt.icu/
+- [MPT](https://mpt.mooncc.cn) https://mpt.mooncc.cn/ or https://mpteam.top/
 
 - [Lunar Town Blog](https://mooncc.cn) https://mooncc.cn/ or https://blogs.niufuyu.top/
-
-- ~~[My CDN](https://cdn.off.cx) https://cdn.off.cx/~~ (The domain name Beian(备案) has been cancelled, and this CDN is temporarily unavailable.)
 
 - [New CDN](https://cdn.mooncc.cn)
 
